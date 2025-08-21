@@ -1,4 +1,3 @@
-import logo from '../assets/TacAssure_Logo.jpg'
 
 export default function Login() {
     return (
